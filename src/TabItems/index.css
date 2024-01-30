@@ -1,0 +1,23 @@
+.normal-style {
+  background-color: transparent;
+  border-width: 0px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 20px;
+}
+
+.highlight-style {
+  background-color: transparent;
+  border-width: 0px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 20px;
+  text-decoration: underline;
+}
+
+.li-item {
+  list-style-type: none;
+  align-self: center;
+}
